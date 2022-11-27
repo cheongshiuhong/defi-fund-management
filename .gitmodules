@@ -1,0 +1,15 @@
+[submodule "transparent-fund-contracts"]
+	path = transparent-fund-contracts
+	url = git@github.com:cheongshiuhong/transparent-fund-contracts.git
+[submodule "transparent-fund-front"]
+	path = transparent-fund-front
+	url = git@github.com:cheongshiuhong/transparent-fund-front.git
+[submodule "material-governance-front"]
+	path = material-governance-front
+	url = git@github.com:cheongshiuhong/material-governance-front.git
+[submodule "transparent-fund-sdk"]
+	path = transparent-fund-sdk
+	url = git@github.com:cheongshiuhong/transparent-fund-sdk.git
+[submodule "transparent-fund-governance-front"]
+	path = transparent-fund-governance-front
+	url = git@github.com:cheongshiuhong/transparent-fund-governance-front.git
